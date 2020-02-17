@@ -1,6 +1,6 @@
 # reactnt (don't use this)
 
-This is a reimplementation of react **including concurrent mode and fiber architecture**. 
+This is a reimplementation of react including concurrent mode and fiber architecture. 
 
 See it in action here -> https://codesandbox.io/s/zen-agnesi-91xtt?fontsize=14&hidenavigation=1&theme=dark
 
