@@ -1,4 +1,6 @@
-# ⚛ reactnt (don't use this)
+# ⚛ reactnt
+
+> It's not react but it's not not react
 
 ### A tiny react clone including concurrent mode and fiber architecture
 
