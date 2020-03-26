@@ -1,10 +1,10 @@
-# reactnt (don't use this)
+# ⚛ reactnt (don't use this)
 
-This is a reimplementation of react including concurrent mode and fiber architecture. 
+## A tiny react + react Dom clone including concurrent mode and fiber architecture
 
 See it in action here -> https://codesandbox.io/s/zen-agnesi-91xtt?fontsize=14&hidenavigation=1&theme=dark
 
-Only functional components + useState + useEffect
+Supports only functional components + useState + useEffect
 
 This is based on:
  - https://github.com/acdlite/react-fiber-architecture
